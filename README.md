@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js, Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js, Java Basic Level
 - 👯 I'm looking to collaborate
 
 
