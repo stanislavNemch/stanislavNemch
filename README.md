@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js, Java Basic Level
+- 🌱 I’m currently learning HTML, CSS(Grid, Flex and other), Adaptive Layout, JavaScript(Class, Function, Prommise, Axion, JSON and other), Vite(NPM, iziToast, Chart.js, Simplelightbox and other), React, Node.js, Java Basic Level
 - 👯 I'm looking to collaborate
 
 
