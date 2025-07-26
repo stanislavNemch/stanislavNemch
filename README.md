@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning HTML, CSS(Grid, Flex and other), Adaptive Layout, JavaScript(Class, Function, Prommise, Axion, JSON and other), Vite(NPM, iziToast, Chart.js, Simplelightbox and other), React, Node.js, Java Basic Level
-- 👯 I'm looking to collaborate
+- 👯 I'm looking to collaborate. I am ready to spend my time for a short period of time, for free or for a symbolic fee, on a commercial project or another interesting project, to gain experience and mutual cooperation.
 
 
 ## 🌐 Socials:
