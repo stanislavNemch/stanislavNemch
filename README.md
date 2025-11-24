@@ -78,9 +78,10 @@ Tools
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ### 📫 How to reach me:
-
+<p>
 <img src="https://img.shields.io/badge/Location-Kharkiv-blue?style=flat&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Ukraine-%F0%9F%87%BA%F0%9F%87%A6-0057B7?style=flat" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-nemchenko-34479623a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stas.buka@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/stas_buka)
 
